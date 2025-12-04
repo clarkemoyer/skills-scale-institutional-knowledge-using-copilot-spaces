@@ -1,6 +1,6 @@
 # OctoAcme — Risk Management & Communication
 
-**Navigation**: [Overview](octoacme-project-management-overview.md) | [Related: All lifecycle phases](octoacme-project-management-overview.md#lifecycle-high-level)
+**Navigation**: [Overview](octoacme-project-management-overview.md) | [See all lifecycle phases](octoacme-project-management-overview.md)
 
 ## Purpose
 Explain how to identify, manage, and communicate risks and dependencies throughout the entire project lifecycle—from initiation through retrospective.
