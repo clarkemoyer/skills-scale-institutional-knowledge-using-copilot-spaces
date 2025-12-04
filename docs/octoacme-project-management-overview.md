@@ -9,7 +9,7 @@ Applies to all cross-functional projects that deliver product features, services
 ## Principles
 - Customer-first: prioritize customer value and usability.
 - Iterative delivery: deliver small, testable increments.
-- Clear ownership: each project has a named Project Manager (PM) and Product Lead.
+- Clear ownership: each project has a named Project Manager (PM) and Product Manager (PdM).
 - Data-informed decisions: measure impact and iterate based on evidence.
 - Psychological safety: encourage feedback and learning.
 
