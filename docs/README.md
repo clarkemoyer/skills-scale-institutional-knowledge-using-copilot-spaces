@@ -37,7 +37,7 @@ Releases follow a structured process to minimize risk. Teams verify all acceptan
 ### 5. Retrospective & Continuous Improvement
 After each sprint, release, or incident, teams conduct retrospectives to capture what went well and what could be improved. Action items are tracked in the backlog with clear owners and timelines, ensuring continuous improvement of processes and outcomes.
 
-**Learn more:** [Retrospective & Continuous Improvement Guide](octoacme-retrospective-and-continuous-improvement.md)
+**Learn more:** [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
 
 ## Roles & Responsibilities
 
@@ -123,9 +123,7 @@ Before any release, teams verify:
 - Rollback plans are documented
 - Smoke tests are ready
 
-**Learn more:** 
-- [Execution & Tracking](octoacme-execution-and-tracking.md)
-- [Release & Deployment](octoacme-release-and-deployment.md)
+**Learn more:** [Execution & Tracking](octoacme-execution-and-tracking.md) and [Release & Deployment](octoacme-release-and-deployment.md)
 
 ## Key Artifacts
 
