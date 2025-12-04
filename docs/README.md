@@ -154,14 +154,21 @@ This creates a culture of continuous learning and improvement, ensuring OctoAcme
 
 For detailed guidance on specific aspects of OctoAcme's project management approach, refer to these documents:
 
+### Core Process Documents
 - [Project Management Overview](octoacme-project-management-overview.md) — Core principles and high-level approach
+- [Project Lifecycle Checklist](octoacme-lifecycle-checklist.md) — **NEW** Comprehensive checklist showing artifacts and decision gates across all phases
+- [Roles and Personas](octoacme-roles-and-personas.md) — Detailed role definitions including Scrum Master, UX Designer, Business Analyst, QA Lead, and expanded Stakeholder roles
+
+### Phase-Specific Guides
 - [Project Initiation](octoacme-project-initiation.md) — Getting projects started with stakeholder alignment
 - [Project Planning](octoacme-project-planning.md) — Creating actionable plans and backlogs
 - [Execution & Tracking](octoacme-execution-and-tracking.md) — Day-to-day workflows and progress tracking
-- [Risk Management & Communication](octoacme-risks-and-communication.md) — Managing risks and stakeholder communication
 - [Release & Deployment](octoacme-release-and-deployment.md) — Structured release processes
 - [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) — Capturing learnings and improving
-- [Roles and Personas](octoacme-roles-and-personas.md) — Detailed role definitions and responsibilities
+
+### Supporting Resources
+- [Risk Management & Communication](octoacme-risks-and-communication.md) — Managing risks and stakeholder communication throughout the lifecycle
+- [Project One-pager Template](octoacme-project-onepager-template.md) — **NEW** Detailed template for project charter with GitHub integration guidance
 
 ---
 
@@ -169,9 +176,14 @@ For detailed guidance on specific aspects of OctoAcme's project management appro
 
 New to OctoAcme project management? Start here:
 
-1. Read this overview to understand our approach
-2. Review the [Project Management Overview](octoacme-project-management-overview.md) for core principles
-3. Explore the [Roles and Personas](octoacme-roles-and-personas.md) to understand responsibilities
-4. Dive into phase-specific guides as needed for your current project stage
+1. **Read this overview** to understand our approach
+2. **Review the [Project Management Overview](octoacme-project-management-overview.md)** for core principles
+3. **Explore the [Roles and Personas](octoacme-roles-and-personas.md)** to understand responsibilities (now includes Scrum Master, UX Designer, Business Analyst, QA Lead, and expanded Stakeholder roles)
+4. **Use the [Project Lifecycle Checklist](octoacme-lifecycle-checklist.md)** as your roadmap through phases
+5. **Dive into phase-specific guides** as needed for your current project stage
+6. **Copy the [Project One-pager Template](octoacme-project-onepager-template.md)** when starting a new project
+
+### For Proposing Process Changes
+To suggest improvements or additions to these process documents, use the [issue template](.github/ISSUE_TEMPLATE/add-update-content-to-process-docs.yml).
 
 For questions or suggestions about these processes, reach out to your Project Manager or Product Lead.
